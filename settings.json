@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "IMBOT",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ImNotBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "LaggyLegends77.aternos.me",
+    "port": 34404,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a regular player" ,
+        "thank you kaziiii!"
       ]
     },
     "chat-log": true,
